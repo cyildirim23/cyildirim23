@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyildirim23
 
-I'm currently a Junior majoring in Computer Engineering at Lousiana State University.
+I'm currently a Senior majoring in Computer Engineering at Lousiana State University.
 I have an interest in Digital Logic Design. More specifically, FPGA design due to its applications.
 
 <!---
